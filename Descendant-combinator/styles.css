@@ -1,0 +1,11 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box p {
+    color: red;
+}
+
+ul > li {
+    border-top: 5px solid red;
+}  
